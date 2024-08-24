@@ -1,3 +1,4 @@
+# Los conjuntos se usan mucho para ver que elemntos se repiten
 conjunto = set({2, 3, 4})  # Para evitar confución con los diccionarios al estar vacios, es mejor utilizar la función "set()"
 
 print(type(conjunto))
